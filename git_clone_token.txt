@@ -1,0 +1,2 @@
+二段階認証時（personal access tokenを取得後）
+git clone -b {ブランチ名} https://{アカウント名}:{Token}@github.com/{リポジトリ名}
